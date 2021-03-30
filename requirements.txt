@@ -19,7 +19,7 @@ Pint==0.10.1
 plac==0.9.6
 preshed==2.0.1
 psycopg2==2.8.4
-Pygments==2.5.2
+Pygments==2.7.4
 pymongo==3.10.1
 pypiwin32==223
 python-dateutil==2.7.5
